@@ -1,2 +1,2 @@
 # Bramki
-Problem B z finałów mistrzostw programowania zespołowego
+Problem B z finałów konkursu programowania zespołowego
