@@ -1,0 +1,16 @@
+C:\Users\Adam\Desktop\studia\Programowanie Obiektowe 2\Bramki\bin\Debug\net5.0\Bramki.exe
+C:\Users\Adam\Desktop\studia\Programowanie Obiektowe 2\Bramki\bin\Debug\net5.0\Bramki.deps.json
+C:\Users\Adam\Desktop\studia\Programowanie Obiektowe 2\Bramki\bin\Debug\net5.0\Bramki.runtimeconfig.json
+C:\Users\Adam\Desktop\studia\Programowanie Obiektowe 2\Bramki\bin\Debug\net5.0\Bramki.runtimeconfig.dev.json
+C:\Users\Adam\Desktop\studia\Programowanie Obiektowe 2\Bramki\bin\Debug\net5.0\Bramki.dll
+C:\Users\Adam\Desktop\studia\Programowanie Obiektowe 2\Bramki\bin\Debug\net5.0\ref\Bramki.dll
+C:\Users\Adam\Desktop\studia\Programowanie Obiektowe 2\Bramki\bin\Debug\net5.0\Bramki.pdb
+C:\Users\Adam\Desktop\studia\Programowanie Obiektowe 2\Bramki\obj\Debug\net5.0\Bramki.csproj.AssemblyReference.cache
+C:\Users\Adam\Desktop\studia\Programowanie Obiektowe 2\Bramki\obj\Debug\net5.0\Bramki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\Desktop\studia\Programowanie Obiektowe 2\Bramki\obj\Debug\net5.0\Bramki.AssemblyInfoInputs.cache
+C:\Users\Adam\Desktop\studia\Programowanie Obiektowe 2\Bramki\obj\Debug\net5.0\Bramki.AssemblyInfo.cs
+C:\Users\Adam\Desktop\studia\Programowanie Obiektowe 2\Bramki\obj\Debug\net5.0\Bramki.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\studia\Programowanie Obiektowe 2\Bramki\obj\Debug\net5.0\Bramki.dll
+C:\Users\Adam\Desktop\studia\Programowanie Obiektowe 2\Bramki\obj\Debug\net5.0\ref\Bramki.dll
+C:\Users\Adam\Desktop\studia\Programowanie Obiektowe 2\Bramki\obj\Debug\net5.0\Bramki.pdb
+C:\Users\Adam\Desktop\studia\Programowanie Obiektowe 2\Bramki\obj\Debug\net5.0\Bramki.genruntimeconfig.cache
